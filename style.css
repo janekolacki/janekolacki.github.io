@@ -62,7 +62,7 @@ border-bottom:none;
 clear:both;
 width:670px;
 height:345px;
-background-color:#000000;
+background-color:#d6c9f2;
 }
 
 #mainPicture .picture
@@ -81,6 +81,7 @@ background-repeat:no-repeat;
 position:relative;
 top:14px;
 left:22px;
+text-align: center
 font-size:27px;
 color:#000000;
 font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
@@ -91,6 +92,7 @@ font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
 position:relative;
 top:12px;
 left:22px;
+text-align: center;
 font-size:14px;
 color:#484848;
 font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
@@ -101,7 +103,7 @@ font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
 margin-top:10px;
 width:670px;
 height:auto;
-background-color:#000000;
+background-color:#d6c9f2;
 }
 
 .contentBox .innerBox
@@ -113,7 +115,7 @@ height:auto;
 top:10px;
 margin-left:10px;
 background-image:url(contentBack.png);
-background-color:#FFFFFF;
+background-color:#d6c9f2;
 background-repeat:repeat-x;
 }
 
@@ -169,21 +171,11 @@ color:#000000;
 }
 
 
-blockquote {
-	font-size:12px;
-	text-align:justify;
-	width:400px;
-	color:#000000;
-	padding:15px;
-	margin:10px;
-	font-family:Arial, Helvetica, sans-serif;
-	background-image:url(blockquote.png);
-	background-repeat:no-repeat;
-	border:dashed 1px;
-	border-color:#484848;
-}
-
 html, body {
 text-align: center;
+background-color: #d6c9f2;
 }
-p {text-align: left;}
+p {
+  text-align: left;
+  background-color: #d6c9f2;
+}
