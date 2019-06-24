@@ -110,13 +110,12 @@ background-color:#d6c9f2;
 .contentBox .innerBox
 {
 position:relative;
-
 width:650px;
 height:auto;
 top:10px;
 margin-left:10px;
 background-image:url(contentBack.png);
-background-color:#d6c9f2;
+background-color:#000000;
 background-repeat:repeat-x;
 }
 
