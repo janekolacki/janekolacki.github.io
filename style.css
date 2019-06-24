@@ -3,9 +3,9 @@ body {
 	padding: 0;
 	text-align: left;
 	font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
-	font-size: 13px;
+  font-size: 13px;
 	color: #000000;
-	background: #000000 url(background.png);
+	background: #d6c9f2;
 	background-repeat:repeat-x;
 }
 *
