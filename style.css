@@ -115,7 +115,7 @@ height:auto;
 top:10px;
 margin-left:10px;
 background-image:url(contentBack.png);
-background-color:#000000;
+background-color:#d6c9f2;
 background-repeat:repeat-x;
 }
 
@@ -173,9 +173,9 @@ color:#000000;
 
 html, body {
 text-align: center;
-background-color: #d6c9f2;
+
 }
 p {
   text-align: left;
-  background-color: #d6c9f2;
+
 }
